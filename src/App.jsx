@@ -7,6 +7,7 @@ import LoginForm from './Components/LoginForm';
 import PostList from './Components/PostList';
 import { useState } from 'react';
 import PostListProvider from './store/PostList-store';
+import data from 'https://www.jsonkeeper.com/b/QI82' assert { type: "json" };
 
 function App() {
 
